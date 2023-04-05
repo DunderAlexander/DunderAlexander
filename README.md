@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandr!</h1>
-<h3 align="center">Front-end Developer | HTML, CSS, JavaScript, TypeScript & React</h3>
+<h3 align="center">Front-end Developer | JavaScript, TypeScript, React & Redux</h3>
 
 - 🔭 I’m currently working on [Quickcart](https://github.com/DunderAlexander/e-commerce)
 
